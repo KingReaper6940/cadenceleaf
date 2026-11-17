@@ -1,0 +1,234 @@
+{
+  "schema": "cadenceleaf-receipt-v1",
+  "checked": true,
+  "project": {
+    "schema": "cadenceleaf-project-v1",
+    "title": "Lantern window",
+    "source": "{title: Lantern window}\n{subtitle: Original rehearsal example}\n# Personal source remark; unchanged in source export.\n{start_of_verse}\n[C]At the window, [Am7]lanterns glow,\n[Fmaj7/A]little sparks above the [G7]snow.\n\n[*Softly][Dm7]Leave a little [G/B]light for me.\n{end_of_verse}\n{comment: Hold the final word}\n[N.C.]The room falls still.\n",
+    "semitones": 2,
+    "spelling": "sharps",
+    "appearance": "blue",
+    "size": "standard",
+    "notes": "Original fictional rehearsal excerpt. No recording or performance directions implied."
+  },
+  "output": "{title: Lantern window}\n{subtitle: Original rehearsal example}\n# Personal source remark; unchanged in source export.\n{start_of_verse}\n[D]At the window, [Bm7]lanterns glow,\n[Gmaj7/B]little sparks above the [A7]snow.\n\n[*Softly][Em7]Leave a little [A/C#]light for me.\n{end_of_verse}\n{comment: Hold the final word}\n[N.C.]The room falls still.\n",
+  "rows": [
+    {
+      "id": 1,
+      "line": 5,
+      "column": 1,
+      "before": "C",
+      "after": "D",
+      "rootBefore": "C",
+      "rootAfter": "D",
+      "bassBefore": null,
+      "bassAfter": null,
+      "quality": "",
+      "rootDelta": 2
+    },
+    {
+      "id": 2,
+      "line": 5,
+      "column": 19,
+      "before": "Am7",
+      "after": "Bm7",
+      "rootBefore": "A",
+      "rootAfter": "B",
+      "bassBefore": null,
+      "bassAfter": null,
+      "quality": "m7",
+      "rootDelta": 2
+    },
+    {
+      "id": 3,
+      "line": 6,
+      "column": 1,
+      "before": "Fmaj7/A",
+      "after": "Gmaj7/B",
+      "rootBefore": "F",
+      "rootAfter": "G",
+      "bassBefore": "A",
+      "bassAfter": "B",
+      "quality": "maj7",
+      "rootDelta": 2
+    },
+    {
+      "id": 4,
+      "line": 6,
+      "column": 34,
+      "before": "G7",
+      "after": "A7",
+      "rootBefore": "G",
+      "rootAfter": "A",
+      "bassBefore": null,
+      "bassAfter": null,
+      "quality": "7",
+      "rootDelta": 2
+    },
+    {
+      "id": 5,
+      "line": 8,
+      "column": 10,
+      "before": "Dm7",
+      "after": "Em7",
+      "rootBefore": "D",
+      "rootAfter": "E",
+      "bassBefore": null,
+      "bassAfter": null,
+      "quality": "m7",
+      "rootDelta": 2
+    },
+    {
+      "id": 6,
+      "line": 8,
+      "column": 30,
+      "before": "G/B",
+      "after": "A/C#",
+      "rootBefore": "G",
+      "rootAfter": "A",
+      "bassBefore": "B",
+      "bassAfter": "C#",
+      "quality": "",
+      "rootDelta": 2
+    }
+  ],
+  "lines": [
+    {
+      "type": "title",
+      "line": 1,
+      "value": "Lantern window"
+    },
+    {
+      "type": "subtitle",
+      "line": 2,
+      "value": "Original rehearsal example"
+    },
+    {
+      "type": "remark",
+      "line": 3,
+      "raw": "# Personal source remark; unchanged in source export."
+    },
+    {
+      "type": "section",
+      "line": 4,
+      "value": "verse"
+    },
+    {
+      "type": "lyric",
+      "line": 5,
+      "parts": [
+        {
+          "type": "chord",
+          "text": "D",
+          "id": 1
+        },
+        {
+          "type": "text",
+          "text": "At the window, "
+        },
+        {
+          "type": "chord",
+          "text": "Bm7",
+          "id": 2
+        },
+        {
+          "type": "text",
+          "text": "lanterns glow,"
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "line": 6,
+      "parts": [
+        {
+          "type": "chord",
+          "text": "Gmaj7/B",
+          "id": 3
+        },
+        {
+          "type": "text",
+          "text": "little sparks above the "
+        },
+        {
+          "type": "chord",
+          "text": "A7",
+          "id": 4
+        },
+        {
+          "type": "text",
+          "text": "snow."
+        }
+      ]
+    },
+    {
+      "type": "blank",
+      "line": 7,
+      "parts": []
+    },
+    {
+      "type": "lyric",
+      "line": 8,
+      "parts": [
+        {
+          "type": "annotation",
+          "text": "Softly"
+        },
+        {
+          "type": "chord",
+          "text": "Em7",
+          "id": 5
+        },
+        {
+          "type": "text",
+          "text": "Leave a little "
+        },
+        {
+          "type": "chord",
+          "text": "A/C#",
+          "id": 6
+        },
+        {
+          "type": "text",
+          "text": "light for me."
+        }
+      ]
+    },
+    {
+      "type": "section-end",
+      "line": 9,
+      "value": "verse"
+    },
+    {
+      "type": "comment",
+      "line": 10,
+      "value": "Hold the final word"
+    },
+    {
+      "type": "lyric",
+      "line": 11,
+      "parts": [
+        {
+          "type": "annotation",
+          "text": "N.C."
+        },
+        {
+          "type": "text",
+          "text": "The room falls still."
+        }
+      ]
+    },
+    {
+      "type": "blank",
+      "line": 12,
+      "parts": []
+    }
+  ],
+  "stats": {
+    "occurrences": 6,
+    "changed": 6,
+    "uniqueBefore": 6,
+    "slashBasses": 2,
+    "sourceLines": 12
+  }
+}
