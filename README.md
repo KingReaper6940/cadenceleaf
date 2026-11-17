@@ -2,6 +2,8 @@
 
 A new key. The same words.
 
+**[Open Cadenceleaf](https://cadenceleaf.vercel.app)**
+
 Cadenceleaf makes a clear rehearsal copy from your own bracketed chord-and-lyric text. Shift chord roots and slash basses by semitones, choose a readable color and size, and download a portable sheet with a complete change receipt.
 
 ![Actual generated transposition summary, not an application screenshot](examples/lantern-summary.svg)
