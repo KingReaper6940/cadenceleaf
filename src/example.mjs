@@ -1,0 +1,2 @@
+import {blank} from './model.mjs';
+export function example(){return {...blank(),title:'Lantern window',semitones:2,notes:'Original fictional rehearsal excerpt. No recording or performance directions implied.',source:'{title: Lantern window}\n{subtitle: Original rehearsal example}\n# Personal source remark; unchanged in source export.\n{start_of_verse}\n[C]At the window, [Am7]lanterns glow,\n[Fmaj7/A]little sparks above the [G7]snow.\n\n[*Softly][Dm7]Leave a little [G/B]light for me.\n{end_of_verse}\n{comment: Hold the final word}\n[N.C.]The room falls still.\n'}}
